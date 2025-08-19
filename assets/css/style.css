@@ -1,7 +1,11 @@
 .Titulo {
-    color: rgb(30, 0, 255)
+    color: rgba(30, 0, 255, 0.849)
 }
 
 #Nombre {
-    color: rgba(7, 89, 144, 0.832);
+    color: rgba(42, 141, 207, 0.832);
+}
+
+th, td {
+    border-style: solid;
 }
