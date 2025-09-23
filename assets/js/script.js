@@ -1,1 +1,0 @@
-alert("Hola bienvenido a mi Curriculum") 

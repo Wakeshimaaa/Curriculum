@@ -6,6 +6,10 @@
     color: rgba(42, 141, 207, 0.832);
 }
 
+table {
+    border-collapse: collapse;
+}
+
 th, td {
-    border-style: solid;
+    border-style: solid
 }
