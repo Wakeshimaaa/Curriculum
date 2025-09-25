@@ -13,3 +13,13 @@ table {
 th, td {
     border-style: solid
 }
+
+.botonfondo {
+    display: inline-block;
+    width: 250px; 
+    height: 80px; 
+    padding: 15px 30px;
+    background-size: cover; 
+    text-decoration: none;
+    background-image: url("../Img/Imagen de WhatsApp 2025-08-19 a las 09.54.54.5e4ad06b.jpg");
+}
